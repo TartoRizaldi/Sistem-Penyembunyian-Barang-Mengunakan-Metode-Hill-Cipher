@@ -1,0 +1,13 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: rgb(219,226,226);
+}
+
+.row-login {
+	background-color: white;
+}

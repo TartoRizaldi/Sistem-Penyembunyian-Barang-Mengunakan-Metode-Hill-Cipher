@@ -1,0 +1,179 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright Copyright (c) Font Awesome
+FontName Font Awesome 5 Free Regular
+FontSubfamily Regular
+UniqueID Font Awesome 5 Free Regular-5.10.2
+FullName Font Awesome 5 Free Regular
+Version 330.242 (Font Awesome version: 5.10.2)
+PostScriptName FontAwesome5Free-Regular
+Description The web's most popular icon set and toolkit.
+FontVendorURL https://fontawesome.com
+PreferredFamily Font Awesome 5 Free
+PreferredSubfamily Regular
+CompatibleFullName Font Awesome 5 Free Regular
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 49
+UnderlinePosition -72
+FontHeightOffset 0
+Ascender 875
+Descender -125
+FontBBox -39 -139 1264 893
+StartCharMetrics 154
+U 61444 ; WX 1000 ; N heart ; G 3
+U 61445 ; WX 1125 ; N star ; G 4
+U 61447 ; WX 875 ; N user ; G 5
+U 61463 ; WX 1000 ; N clock ; G 6
+U 61474 ; WX 1000 ; N list-alt ; G 7
+U 61476 ; WX 1000 ; N flag ; G 8
+U 61486 ; WX 750 ; N bookmark ; G 9
+U 61502 ; WX 1000 ; N image ; G 10
+U 61508 ; WX 1125 ; N edit ; G 11
+U 61527 ; WX 1000 ; N times-circle ; G 12
+U 61528 ; WX 1000 ; N check-circle ; G 13
+U 61529 ; WX 1000 ; N question-circle ; G 14
+U 61550 ; WX 1125 ; N eye ; G 15
+U 61552 ; WX 1250 ; N eye-slash ; G 16
+U 61555 ; WX 875 ; N calendar-alt ; G 17
+U 61557 ; WX 1000 ; N comment ; G 18
+U 61563 ; WX 1000 ; N folder ; G 19
+U 61564 ; WX 1125 ; N folder-open ; G 20
+U 61568 ; WX 1000 ; N chart-bar ; G 21
+U 61574 ; WX 1125 ; N comments ; G 22
+U 61577 ; WX 1125 ; N star-half ; G 23
+U 61588 ; WX 1000 ; N lemon ; G 24
+U 61597 ; WX 1125 ; N credit-card ; G 25
+U 61600 ; WX 1125 ; N hdd ; G 26
+U 61604 ; WX 1000 ; N hand-point-right ; G 27
+U 61605 ; WX 1000 ; N hand-point-left ; G 28
+U 61606 ; WX 875 ; N hand-point-up ; G 29
+U 61607 ; WX 875 ; N hand-point-down ; G 30
+U 61637 ; WX 875 ; N copy ; G 31
+U 61639 ; WX 875 ; N save ; G 32
+U 61640 ; WX 875 ; N square ; G 33
+U 61664 ; WX 1000 ; N envelope ; G 34
+U 61675 ; WX 688 ; N lightbulb ; G 35
+U 61683 ; WX 875 ; N bell ; G 36
+U 61688 ; WX 875 ; N hospital ; G 37
+U 61694 ; WX 875 ; N plus-square ; G 38
+U 61713 ; WX 1000 ; N circle ; G 39
+U 61720 ; WX 969 ; N smile ; G 40
+U 61721 ; WX 969 ; N frown ; G 41
+U 61722 ; WX 969 ; N meh ; G 42
+U 61724 ; WX 1125 ; N keyboard ; G 43
+U 61747 ; WX 875 ; N calendar ; G 44
+U 61764 ; WX 1000 ; N play-circle ; G 45
+U 61766 ; WX 875 ; N minus-square ; G 46
+U 61770 ; WX 875 ; N check-square ; G 47
+U 61773 ; WX 1125 ; N share-square ; G 48
+U 61774 ; WX 969 ; N compass ; G 49
+U 61776 ; WX 875 ; N caret-square-down ; G 50
+U 61777 ; WX 875 ; N caret-square-up ; G 51
+U 61778 ; WX 875 ; N caret-square-right ; G 52
+U 61787 ; WX 750 ; N file ; G 53
+U 61788 ; WX 750 ; N file-alt ; G 54
+U 61796 ; WX 1000 ; N thumbs-up ; G 55
+U 61797 ; WX 1000 ; N thumbs-down ; G 56
+U 61829 ; WX 1000 ; N sun ; G 57
+U 61830 ; WX 1000 ; N moon ; G 58
+U 61841 ; WX 875 ; N caret-square-left ; G 59
+U 61842 ; WX 1000 ; N dot-circle ; G 60
+U 61869 ; WX 875 ; N building ; G 61
+U 61889 ; WX 750 ; N file-pdf ; G 62
+U 61890 ; WX 750 ; N file-word ; G 63
+U 61891 ; WX 750 ; N file-excel ; G 64
+U 61892 ; WX 750 ; N file-powerpoint ; G 65
+U 61893 ; WX 750 ; N file-image ; G 66
+U 61894 ; WX 750 ; N file-archive ; G 67
+U 61895 ; WX 750 ; N file-audio ; G 68
+U 61896 ; WX 750 ; N file-video ; G 69
+U 61897 ; WX 750 ; N file-code ; G 70
+U 61901 ; WX 1000 ; N life-ring ; G 71
+U 61912 ; WX 1000 ; N paper-plane ; G 72
+U 61923 ; WX 969 ; N futbol ; G 73
+U 61930 ; WX 1125 ; N newspaper ; G 74
+U 61942 ; WX 1250 ; N bell-slash ; G 75
+U 61945 ; WX 1000 ; N copyright ; G 76
+U 61962 ; WX 1000 ; N closed-captioning ; G 77
+U 62023 ; WX 1000 ; N object-group ; G 78
+U 62024 ; WX 1125 ; N object-ungroup ; G 79
+U 62025 ; WX 875 ; N sticky-note ; G 80
+U 62029 ; WX 1000 ; N clone ; G 81
+U 62036 ; WX 750 ; N hourglass ; G 82
+U 62037 ; WX 1000 ; N hand-rock ; G 83
+U 62038 ; WX 875 ; N hand-paper ; G 84
+U 62039 ; WX 1000 ; N hand-scissors ; G 85
+U 62040 ; WX 1125 ; N hand-lizard ; G 86
+U 62041 ; WX 1000 ; N hand-spock ; G 87
+U 62042 ; WX 875 ; N hand-pointer ; G 88
+U 62043 ; WX 875 ; N hand-peace ; G 89
+U 62045 ; WX 1000 ; N registered ; G 90
+U 62065 ; WX 875 ; N calendar-plus ; G 91
+U 62066 ; WX 875 ; N calendar-minus ; G 92
+U 62067 ; WX 875 ; N calendar-times ; G 93
+U 62068 ; WX 875 ; N calendar-check ; G 94
+U 62073 ; WX 1125 ; N map ; G 95
+U 62074 ; WX 1000 ; N comment-alt ; G 96
+U 62091 ; WX 1000 ; N pause-circle ; G 97
+U 62093 ; WX 1000 ; N stop-circle ; G 98
+U 62133 ; WX 1250 ; N handshake ; G 99
+U 62134 ; WX 1000 ; N envelope-open ; G 100
+U 62137 ; WX 875 ; N address-book ; G 101
+U 62139 ; WX 1125 ; N address-card ; G 102
+U 62141 ; WX 969 ; N user-circle ; G 103
+U 62145 ; WX 750 ; N id-badge ; G 104
+U 62146 ; WX 1125 ; N id-card ; G 105
+U 62160 ; WX 1000 ; N window-maximize ; G 106
+U 62161 ; WX 1000 ; N window-minimize ; G 107
+U 62162 ; WX 1000 ; N window-restore ; G 108
+U 62172 ; WX 875 ; N snowflake ; G 109
+U 62189 ; WX 875 ; N trash-alt ; G 110
+U 62210 ; WX 1125 ; N images ; G 111
+U 62248 ; WX 750 ; N clipboard ; G 112
+U 62296 ; WX 1000 ; N arrow-alt-circle-down ; G 113
+U 62297 ; WX 1000 ; N arrow-alt-circle-left ; G 114
+U 62298 ; WX 1000 ; N arrow-alt-circle-right ; G 115
+U 62299 ; WX 1000 ; N arrow-alt-circle-up ; G 116
+U 62373 ; WX 1125 ; N gem ; G 117
+U 62417 ; WX 1250 ; N money-bill-alt ; G 118
+U 62480 ; WX 1000 ; N window-close ; G 119
+U 62637 ; WX 1000 ; N comment-dots ; G 120
+U 62682 ; WX 969 ; N smile-wink ; G 121
+U 62806 ; WX 969 ; N angry ; G 122
+U 62823 ; WX 969 ; N dizzy ; G 123
+U 62841 ; WX 969 ; N flushed ; G 124
+U 62842 ; WX 969 ; N frown-open ; G 125
+U 62847 ; WX 969 ; N grimace ; G 126
+U 62848 ; WX 969 ; N grin ; G 127
+U 62849 ; WX 969 ; N grin-alt ; G 128
+U 62850 ; WX 969 ; N grin-beam ; G 129
+U 62851 ; WX 969 ; N grin-beam-sweat ; G 130
+U 62852 ; WX 969 ; N grin-hearts ; G 131
+U 62853 ; WX 969 ; N grin-squint ; G 132
+U 62854 ; WX 1000 ; N grin-squint-tears ; G 133
+U 62855 ; WX 969 ; N grin-stars ; G 134
+U 62856 ; WX 1250 ; N grin-tears ; G 135
+U 62857 ; WX 969 ; N grin-tongue ; G 136
+U 62858 ; WX 969 ; N grin-tongue-squint ; G 137
+U 62859 ; WX 969 ; N grin-tongue-wink ; G 138
+U 62860 ; WX 969 ; N grin-wink ; G 139
+U 62870 ; WX 969 ; N kiss ; G 140
+U 62871 ; WX 969 ; N kiss-beam ; G 141
+U 62872 ; WX 984 ; N kiss-wink-heart ; G 142
+U 62873 ; WX 969 ; N laugh ; G 143
+U 62874 ; WX 969 ; N laugh-beam ; G 144
+U 62875 ; WX 969 ; N laugh-squint ; G 145
+U 62876 ; WX 969 ; N laugh-wink ; G 146
+U 62884 ; WX 969 ; N meh-blank ; G 147
+U 62885 ; WX 969 ; N meh-rolling-eyes ; G 148
+U 62899 ; WX 969 ; N sad-cry ; G 149
+U 62900 ; WX 969 ; N sad-tear ; G 150
+U 62904 ; WX 969 ; N smile-beam ; G 151
+U 62914 ; WX 969 ; N surprise ; G 152
+U 62920 ; WX 969 ; N tired ; G 153
+EndCharMetrics
+EndFontMetrics

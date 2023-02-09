@@ -1,0 +1,105 @@
+<?php return function ($fontDir, $rootDir) {
+return array (
+  'sans-serif' => array(
+    'normal' => $fontDir . '/Helvetica',
+    'bold' => $fontDir . '/Helvetica-Bold',
+    'italic' => $fontDir . '/Helvetica-Oblique',
+    'bold_italic' => $fontDir . '/Helvetica-BoldOblique',
+  ),
+  'times' => array(
+    'normal' => $fontDir . '/Times-Roman',
+    'bold' => $fontDir . '/Times-Bold',
+    'italic' => $fontDir . '/Times-Italic',
+    'bold_italic' => $fontDir . '/Times-BoldItalic',
+  ),
+  'times-roman' => array(
+    'normal' => $fontDir . '/Times-Roman',
+    'bold' => $fontDir . '/Times-Bold',
+    'italic' => $fontDir . '/Times-Italic',
+    'bold_italic' => $fontDir . '/Times-BoldItalic',
+  ),
+  'courier' => array(
+    'normal' => $fontDir . '/Courier',
+    'bold' => $fontDir . '/Courier-Bold',
+    'italic' => $fontDir . '/Courier-Oblique',
+    'bold_italic' => $fontDir . '/Courier-BoldOblique',
+  ),
+  'helvetica' => array(
+    'normal' => $fontDir . '/Helvetica',
+    'bold' => $fontDir . '/Helvetica-Bold',
+    'italic' => $fontDir . '/Helvetica-Oblique',
+    'bold_italic' => $fontDir . '/Helvetica-BoldOblique',
+  ),
+  'zapfdingbats' => array(
+    'normal' => $fontDir . '/ZapfDingbats',
+    'bold' => $fontDir . '/ZapfDingbats',
+    'italic' => $fontDir . '/ZapfDingbats',
+    'bold_italic' => $fontDir . '/ZapfDingbats',
+  ),
+  'symbol' => array(
+    'normal' => $fontDir . '/Symbol',
+    'bold' => $fontDir . '/Symbol',
+    'italic' => $fontDir . '/Symbol',
+    'bold_italic' => $fontDir . '/Symbol',
+  ),
+  'serif' => array(
+    'normal' => $fontDir . '/Times-Roman',
+    'bold' => $fontDir . '/Times-Bold',
+    'italic' => $fontDir . '/Times-Italic',
+    'bold_italic' => $fontDir . '/Times-BoldItalic',
+  ),
+  'monospace' => array(
+    'normal' => $fontDir . '/Courier',
+    'bold' => $fontDir . '/Courier-Bold',
+    'italic' => $fontDir . '/Courier-Oblique',
+    'bold_italic' => $fontDir . '/Courier-BoldOblique',
+  ),
+  'fixed' => array(
+    'normal' => $fontDir . '/Courier',
+    'bold' => $fontDir . '/Courier-Bold',
+    'italic' => $fontDir . '/Courier-Oblique',
+    'bold_italic' => $fontDir . '/Courier-BoldOblique',
+  ),
+  'dejavu sans' => array(
+    'bold' => $fontDir . '/DejaVuSans-Bold',
+    'bold_italic' => $fontDir . '/DejaVuSans-BoldOblique',
+    'italic' => $fontDir . '/DejaVuSans-Oblique',
+    'normal' => $fontDir . '/DejaVuSans',
+  ),
+  'dejavu sans mono' => array(
+    'bold' => $fontDir . '/DejaVuSansMono-Bold',
+    'bold_italic' => $fontDir . '/DejaVuSansMono-BoldOblique',
+    'italic' => $fontDir . '/DejaVuSansMono-Oblique',
+    'normal' => $fontDir . '/DejaVuSansMono',
+  ),
+  'dejavu serif' => array(
+    'bold' => $fontDir . '/DejaVuSerif-Bold',
+    'bold_italic' => $fontDir . '/DejaVuSerif-BoldItalic',
+    'italic' => $fontDir . '/DejaVuSerif-Italic',
+    'normal' => $fontDir . '/DejaVuSerif',
+  ),
+  'font awesome 5 brands' => array(
+    'normal' => $fontDir . '/font_awesome_5_brands_normal_1cf1598c636c2148743bc62419d7e59e',
+  ),
+  'font awesome 5 free' => array(
+    'normal' => $fontDir . '/font_awesome_5_free_normal_af50ba04a0ed93637217057be6f4adc3',
+    '900' => $fontDir . '/font_awesome_5_free_900_d95b448f47a0c4de6f9618713340a1dd',
+  ),
+  'nunito' => array(
+    '200_italic' => $fontDir . '/nunito_200_italic_117d4965eda482d6a9f7166d71aece4e',
+    '300_italic' => $fontDir . '/nunito_300_italic_5a5b8b9d4074db5d624321858d515e78',
+    'italic' => $fontDir . '/nunito_italic_88374c5055046175e5d15ac22ed726a3',
+    '600_italic' => $fontDir . '/nunito_600_italic_3bf22f5b25ef7bb58c4905aaed58856c',
+    'bold_italic' => $fontDir . '/nunito_bold_italic_01637792637ab4762e7843629687237b',
+    '800_italic' => $fontDir . '/nunito_800_italic_442389ba0e8d484c27a4ec1de20a7254',
+    '900_italic' => $fontDir . '/nunito_900_italic_cc07e4124ffefacc4650a06667972196',
+    '200' => $fontDir . '/nunito_200_0943b90d78b1dd8a3f7a14e277fcff9e',
+    '300' => $fontDir . '/nunito_300_ddf07800b2b745a15f322fd60cec2b17',
+    'normal' => $fontDir . '/nunito_normal_34247b3036b716234db5ab3f26800c05',
+    '600' => $fontDir . '/nunito_600_1207f695be2c8f3ca1bcf6da3b4b94b4',
+    'bold' => $fontDir . '/nunito_bold_84d784dedb39d9138f3d5959f0c869d5',
+    '800' => $fontDir . '/nunito_800_d7dd4de77be81a0044c7e41a30ad07e3',
+    '900' => $fontDir . '/nunito_900_291591172732d40b170d47c7b0cab9c6',
+  ),
+);
+}; ?>
